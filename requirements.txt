@@ -1,0 +1,7 @@
+grpcio==1.59.0
+locust==2.16.1
+python-dotenv==1.0.0
+pymailtm==1.1.1
+protobuf==4.24.4
+grpcio-tools==1.59.0
+asyncio==3.4.3
